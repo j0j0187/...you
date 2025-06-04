@@ -1,2 +1,2 @@
-# fckyou
+# ...you
 a shell that …you
