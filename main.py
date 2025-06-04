@@ -1,26 +1,23 @@
-
 while True:
  var1 = input("...,")
- if var1 is fckyou:
-  exit()
+ if var1.endswith("fckyou"):
+  break
  if var1.endswith("LS"):
   zvar1 = int(input("...,"))
-  rvar = int(input("...,"))
+  rvar = input("...,")
   zvar2 = int(input("...,"))
-  if rvar == +:
-   summep  zvar1 + zvar
+  if rvar == "buff":
+   summep = zvar1 + zvar2
    print(summep)
-   break
-  if rvar == -:
+   
+  if rvar == "drop":
    summem = zvar1 - zvar2
-   print(summep)
-   break
-  if rvar == /:
+   print(summem)
+  
+  if rvar == "split":
    summege = zvar1 / zvar2
    print(summege)
-   break
-  if rvar == *:
+   
+  if rvar == "*":
    summema = zvar1 * zvar2
    print(summema)
-   break
-  
